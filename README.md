@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yash01100/leetcode-problems/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->

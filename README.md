@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yash01100/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/yash01100/leetcode-problems/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/yash01100/leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash01100/leetcode-problems/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yash01100/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/yash01100/leetcode-problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

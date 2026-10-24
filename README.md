@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yash01100/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [2409-count-days-spent-together](https://github.com/yash01100/leetcode-problems/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yash01100/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yash01100/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [2409-count-days-spent-together](https://github.com/yash01100/leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yash01100/leetcode-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |

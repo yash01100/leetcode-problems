@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yash01100/leetcode-problems/tree/master/0016-3sum-closest) |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yash01100/leetcode-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/yash01100/leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -56,16 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->

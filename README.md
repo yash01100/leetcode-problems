@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yash01100/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash01100/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/yash01100/leetcode-problems/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/yash01100/leetcode-problems/tree/master/0039-combination-sum) |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash01100/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash01100/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/yash01100/leetcode-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

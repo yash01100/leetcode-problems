@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash01100/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash01100/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/yash01100/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/yash01100/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash01100/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yash01100/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yash01100/leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/yash01100/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/yash01100/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yash01100/leetcode-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/yash01100/leetcode-problems/tree/master/3665-twisted-mirror-path-count) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yash01100/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yash01100/leetcode-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yash01100/leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set

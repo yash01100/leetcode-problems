@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash01100/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash01100/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/yash01100/leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3886-sum-of-sortable-integers](https://github.com/yash01100/leetcode-problems/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash01100/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yash01100/leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yash01100/leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/yash01100/leetcode-problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/yash01100/leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/yash01100/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/yash01100/leetcode-problems/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/yash01100/leetcode-problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3886-sum-of-sortable-integers](https://github.com/yash01100/leetcode-problems/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yash01100/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yash01100/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/yash01100/leetcode-problems/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
